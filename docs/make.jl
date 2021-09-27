@@ -1,6 +1,6 @@
+push!(LOAD_PATH,"../src/")
 using Documenter, example
 
-push!(LOAD_PATH,"../src/")
 makedocs(
          sitename = "example.jl",
          modules  = [example],
