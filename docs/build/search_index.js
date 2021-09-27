@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"#example.jl-Documentation","page":"example.jl Documentation","title":"example.jl Documentation","text":"","category":"section"},{"location":"","page":"example.jl Documentation","title":"example.jl Documentation","text":"CurrentModule = example","category":"page"},{"location":"","page":"example.jl Documentation","title":"example.jl Documentation","text":"func(x)","category":"page"},{"location":"#example.func-Tuple{Any}","page":"example.jl Documentation","title":"example.func","text":"func(x)\n\nReturns double the number x plus 1.\n\n\n\n\n\n","category":"method"}]
+}
