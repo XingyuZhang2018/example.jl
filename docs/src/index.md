@@ -1,8 +1,4 @@
-# example.jl Documentation
-
-```@meta
-CurrentModule = example
-```
+# example.jl
 
 ```@docs
 func(x)
